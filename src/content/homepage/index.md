@@ -1,7 +1,7 @@
 ---
 banner:
   title: Work shouldn't feel like work. Let's find your passion project.
-  content:  We're committed to fostering a culture of growth, learning, and development, so you can reach <br> your full potential and build a fulfilling career you love.
+  content:  Isn't it time to ditch the Sunday scaries and embrace a career filled with meaning? Together,<br> we can unlock your potential and develop a passion project that energizes you and makes every workday feel exciting.
   image: /images/banner-art.png
   button:
     label: "Contact Us"
